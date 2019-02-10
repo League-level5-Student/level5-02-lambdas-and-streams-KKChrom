@@ -51,7 +51,7 @@ System.out.println(q);
 					t+=s.substring(i,i+1);
 				}
 			}
-		}, "repeat");
+		}, "vowels");
 	}
 	
 	public static void printCustomMessage(SpecialPrinter sp, String value) {
